@@ -1,0 +1,26 @@
+.centre {
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+    color: #808080;
+
+}
+
+.style {
+    max-width: 100%;
+    -moz-column-gap: 5px;
+    -webkit-column-gap: 5px;
+    column-gap: 5px;
+    letter-spacing: 0.3em;
+    line-height: 1.4;
+    font-size: 16px !important;
+    margin: 0 auto;
+}

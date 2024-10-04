@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.centre {
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+    color:#808080;
+
+}
+
+.style {
+    max-width: 100%;
+    -moz-column-gap: 10px;
+    -webkit-column-gap: 10px; 
+    column-gap: 10px; 
+    letter-spacing: 0.3em; 
+    line-height: 1.4; 
+    font-family: 'Arimo'; 
+    font-size: 16px !important;  
+    margin: 0 auto;
+}
